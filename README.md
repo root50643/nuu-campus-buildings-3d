@@ -17,17 +17,13 @@
 - [可編輯 Blender 原始檔](buildings/guoding-library/guoding_library.blend)
 - [完整原始檔套件](buildings/guoding-library/guoding_library_150mm_source.zip)
 
-#### 正面透視
-
-![國鼎圖書館 3D 模型正面透視](buildings/guoding-library/front_perspective.png)
+| 正面透視 | 背面透視 |
+| :---: | :---: |
+| [<img src="buildings/guoding-library/front_perspective.png" alt="國鼎圖書館 3D 模型正面透視" width="320">](buildings/guoding-library/front_perspective.png) | [<img src="buildings/guoding-library/rear_perspective.png" alt="國鼎圖書館 3D 模型背面透視" width="320">](buildings/guoding-library/rear_perspective.png) |
 
 #### 正立面
 
-![國鼎圖書館 3D 模型正立面](buildings/guoding-library/front_elevation.png)
-
-#### 背面透視
-
-![國鼎圖書館 3D 模型背面透視](buildings/guoding-library/rear_perspective.png)
+[<img src="buildings/guoding-library/front_elevation.png" alt="國鼎圖書館 3D 模型正立面" width="320">](buildings/guoding-library/front_elevation.png)
 
 以上圖片均為實際模型渲染。模型依公開外觀資訊進行近似重建，並非現場測量、BIM 施工圖或官方精確模型；未經實體試印。尺寸、簡化方式、來源與列印限制請參閱各建築的說明。
 
@@ -39,9 +35,9 @@
 - [建築說明、來源與列印限制](buildings/bajia-a1-science-engineering-1/README.zh-TW.md)
 - [STL 模型](buildings/bajia-a1-science-engineering-1/model.stl)・[Blender 場景](buildings/bajia-a1-science-engineering-1/scene.blend)・[網格驗證](buildings/bajia-a1-science-engineering-1/validation.json)
 
-![八甲校區 A1｜理工學院一館實際模型正面](buildings/bajia-a1-science-engineering-1/previews/front.png)
-
-![八甲校區 A1｜理工學院一館實際模型背面](buildings/bajia-a1-science-engineering-1/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-a1-science-engineering-1/previews/front.png" alt="八甲校區 A1｜理工學院一館實際模型正面" width="320">](buildings/bajia-a1-science-engineering-1/previews/front.png) | [<img src="buildings/bajia-a1-science-engineering-1/previews/rear.png" alt="八甲校區 A1｜理工學院一館實際模型背面" width="320">](buildings/bajia-a1-science-engineering-1/previews/rear.png) |
 
 ### 八甲校區 A2｜理工學院二館
 
@@ -50,9 +46,9 @@
 - [建築說明、來源與列印限制](buildings/bajia-a2-science-engineering-2/README.md)
 - [STL 模型](buildings/bajia-a2-science-engineering-2/model.stl)・[Blender 場景](buildings/bajia-a2-science-engineering-2/scene.blend)・[網格驗證](buildings/bajia-a2-science-engineering-2/validation.json)
 
-![八甲校區 A2｜理工學院二館實際模型正面](buildings/bajia-a2-science-engineering-2/previews/front.png)
-
-![八甲校區 A2｜理工學院二館實際模型背面](buildings/bajia-a2-science-engineering-2/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-a2-science-engineering-2/previews/front.png" alt="八甲校區 A2｜理工學院二館實際模型正面" width="320">](buildings/bajia-a2-science-engineering-2/previews/front.png) | [<img src="buildings/bajia-a2-science-engineering-2/previews/rear.png" alt="八甲校區 A2｜理工學院二館實際模型背面" width="320">](buildings/bajia-a2-science-engineering-2/previews/rear.png) |
 
 ### 二坪山校區 C1｜立德樓（管理學院）
 
@@ -61,9 +57,9 @@
 - [建築說明、來源與列印限制](buildings/erping-c1-lide/README.zh-TW.md)
 - [STL 模型](buildings/erping-c1-lide/model.stl)・[Blender 場景](buildings/erping-c1-lide/scene.blend)・[網格驗證](buildings/erping-c1-lide/validation.json)
 
-![二坪山校區 C1｜立德樓（管理學院）實際模型正面](buildings/erping-c1-lide/previews/front.png)
-
-![二坪山校區 C1｜立德樓（管理學院）實際模型背面](buildings/erping-c1-lide/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-c1-lide/previews/front.png" alt="二坪山校區 C1｜立德樓（管理學院）實際模型正面" width="320">](buildings/erping-c1-lide/previews/front.png) | [<img src="buildings/erping-c1-lide/previews/rear.png" alt="二坪山校區 C1｜立德樓（管理學院）實際模型背面" width="320">](buildings/erping-c1-lide/previews/rear.png) |
 
 ## 檔案組織
 
@@ -77,9 +73,9 @@
 - [建築說明、公開來源與列印限制](buildings/bajia-b1-electrical-engineering/README.zh-TW.md)
 - [STL 模型](buildings/bajia-b1-electrical-engineering/model.stl)・[Blender 場景](buildings/bajia-b1-electrical-engineering/scene.blend)・[網格驗證](buildings/bajia-b1-electrical-engineering/validation.json)
 
-![電機工程館實際模型正面](buildings/bajia-b1-electrical-engineering/previews/front.png)
-
-![電機工程館實際模型背面近似](buildings/bajia-b1-electrical-engineering/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-b1-electrical-engineering/previews/front.png" alt="電機工程館實際模型正面" width="320">](buildings/bajia-b1-electrical-engineering/previews/front.png) | [<img src="buildings/bajia-b1-electrical-engineering/previews/rear.png" alt="電機工程館實際模型背面近似" width="320">](buildings/bajia-b1-electrical-engineering/previews/rear.png) |
 
 
 ### 八甲校區 B2｜電子工程館
@@ -89,9 +85,9 @@
 - [建築說明、公開來源與列印限制](buildings/bajia-b2-electronics-engineering/README.md)
 - [STL 模型](buildings/bajia-b2-electronics-engineering/model.stl)・[Blender 場景](buildings/bajia-b2-electronics-engineering/scene.blend)・[網格驗證](buildings/bajia-b2-electronics-engineering/validation.json)
 
-![電子工程館實際模型正面](buildings/bajia-b2-electronics-engineering/previews/front.png)
-
-![電子工程館實際模型背面近似](buildings/bajia-b2-electronics-engineering/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-b2-electronics-engineering/previews/front.png" alt="電子工程館實際模型正面" width="320">](buildings/bajia-b2-electronics-engineering/previews/front.png) | [<img src="buildings/bajia-b2-electronics-engineering/previews/rear.png" alt="電子工程館實際模型背面近似" width="320">](buildings/bajia-b2-electronics-engineering/previews/rear.png) |
 
 
 ### 八甲校區 B3｜光電館
@@ -101,9 +97,9 @@
 - [建築說明、公開來源與列印限制](buildings/bajia-b3-photonics-engineering/README.zh-TW.md)
 - [STL 模型](buildings/bajia-b3-photonics-engineering/model.stl)・[Blender 場景](buildings/bajia-b3-photonics-engineering/scene.blend)・[網格驗證](buildings/bajia-b3-photonics-engineering/validation.json)
 
-![光電館實際模型正面](buildings/bajia-b3-photonics-engineering/previews/front.png)
-
-![光電館實際模型背面近似](buildings/bajia-b3-photonics-engineering/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-b3-photonics-engineering/previews/front.png" alt="光電館實際模型正面" width="320">](buildings/bajia-b3-photonics-engineering/previews/front.png) | [<img src="buildings/bajia-b3-photonics-engineering/previews/rear.png" alt="光電館實際模型背面近似" width="320">](buildings/bajia-b3-photonics-engineering/previews/rear.png) |
 
 
 ## 新增館舍與建築群
@@ -114,9 +110,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 70 × 73.2。資料來源：manifest.json。
 
-![八甲校區 B4 資訊工程館：正面](buildings/bajia-b4-computer-science/previews/front.png)
-
-![八甲校區 B4 資訊工程館：背面](buildings/bajia-b4-computer-science/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-b4-computer-science/previews/front.png" alt="八甲校區 B4 資訊工程館：正面" width="320">](buildings/bajia-b4-computer-science/previews/front.png) | [<img src="buildings/bajia-b4-computer-science/previews/rear.png" alt="八甲校區 B4 資訊工程館：背面" width="320">](buildings/bajia-b4-computer-science/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -126,9 +122,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 118 × 58。資料來源：validation.json:dimensions_mm。
 
-![國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：正面](buildings/bajia-d1-d2-hakka-complex/previews/front.png)
-
-![國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：背面](buildings/bajia-d1-d2-hakka-complex/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-d1-d2-hakka-complex/previews/front.png" alt="國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：正面" width="320">](buildings/bajia-d1-d2-hakka-complex/previews/front.png) | [<img src="buildings/bajia-d1-d2-hakka-complex/previews/rear.png" alt="國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：背面" width="320">](buildings/bajia-d1-d2-hakka-complex/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -138,9 +134,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 120 × 61。資料來源：validation.json:dimensions_mm。
 
-![國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：正面](buildings/bajia-e1-e2-e3-humanities/previews/front.png)
-
-![國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：背面](buildings/bajia-e1-e2-e3-humanities/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-e1-e2-e3-humanities/previews/front.png" alt="國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：正面" width="320">](buildings/bajia-e1-e2-e3-humanities/previews/front.png) | [<img src="buildings/bajia-e1-e2-e3-humanities/previews/rear.png" alt="國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：背面" width="320">](buildings/bajia-e1-e2-e3-humanities/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -150,9 +146,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 56。資料來源：validation.json:dimensions_mm。
 
-![國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：正面](buildings/bajia-g1-g2-g3-common-education/previews/front.png)
-
-![國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：背面](buildings/bajia-g1-g2-g3-common-education/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-g1-g2-g3-common-education/previews/front.png" alt="國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：正面" width="320">](buildings/bajia-g1-g2-g3-common-education/previews/front.png) | [<img src="buildings/bajia-g1-g2-g3-common-education/previews/rear.png" alt="國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：背面" width="320">](buildings/bajia-g1-g2-g3-common-education/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -162,9 +158,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 80 × 93.8。資料來源：validation.json:dimensions_mm。
 
-![F1 建築一館：正面](buildings/erping-f1-architecture-1/previews/front.png)
-
-![F1 建築一館：背面](buildings/erping-f1-architecture-1/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-f1-architecture-1/previews/front.png" alt="F1 建築一館：正面" width="320">](buildings/erping-f1-architecture-1/previews/front.png) | [<img src="buildings/erping-f1-architecture-1/previews/rear.png" alt="F1 建築一館：背面" width="320">](buildings/erping-f1-architecture-1/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -174,9 +170,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 76 × 50.2。資料來源：validation.json:dimensions_mm。
 
-![F2 建築二館：正面](buildings/erping-f2-architecture-2/previews/front.png)
-
-![F2 建築二館：背面](buildings/erping-f2-architecture-2/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-f2-architecture-2/previews/front.png" alt="F2 建築二館：正面" width="320">](buildings/erping-f2-architecture-2/previews/front.png) | [<img src="buildings/erping-f2-architecture-2/previews/rear.png" alt="F2 建築二館：背面" width="320">](buildings/erping-f2-architecture-2/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -186,9 +182,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 106 × 76.2。資料來源：validation.json:dimensions_mm。
 
-![F3 公弢樓：正面](buildings/erping-f3-gongtao/previews/front.png)
-
-![F3 公弢樓：背面](buildings/erping-f3-gongtao/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-f3-gongtao/previews/front.png" alt="F3 公弢樓：正面" width="320">](buildings/erping-f3-gongtao/previews/front.png) | [<img src="buildings/erping-f3-gongtao/previews/rear.png" alt="F3 公弢樓：背面" width="320">](buildings/erping-f3-gongtao/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -198,9 +194,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 80 × 121.4。資料來源：manifest.json。
 
-![產研創新暨推廣大樓：正面](buildings/erping-h1-innovation-outreach/previews/front.png)
-
-![產研創新暨推廣大樓：背面](buildings/erping-h1-innovation-outreach/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-h1-innovation-outreach/previews/front.png" alt="產研創新暨推廣大樓：正面" width="320">](buildings/erping-h1-innovation-outreach/previews/front.png) | [<img src="buildings/erping-h1-innovation-outreach/previews/rear.png" alt="產研創新暨推廣大樓：背面" width="320">](buildings/erping-h1-innovation-outreach/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -213,9 +209,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 63.1。資料來源：validation.json:dimensions_mm。
 
-![第一宿舍（水雲樓）：正面](buildings/erping-m1-shuiyun-dorm/previews/front.png)
-
-![第一宿舍（水雲樓）：背面](buildings/erping-m1-shuiyun-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m1-shuiyun-dorm/previews/front.png" alt="第一宿舍（水雲樓）：正面" width="320">](buildings/erping-m1-shuiyun-dorm/previews/front.png) | [<img src="buildings/erping-m1-shuiyun-dorm/previews/rear.png" alt="第一宿舍（水雲樓）：背面" width="320">](buildings/erping-m1-shuiyun-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -225,9 +221,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 70 × 64.84。資料來源：validation.json:dimensions_mm。
 
-![第二宿舍（紅夢樓）：正面](buildings/erping-m2-hongmeng-dorm/previews/front.png)
-
-![第二宿舍（紅夢樓）：背面](buildings/erping-m2-hongmeng-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m2-hongmeng-dorm/previews/front.png" alt="第二宿舍（紅夢樓）：正面" width="320">](buildings/erping-m2-hongmeng-dorm/previews/front.png) | [<img src="buildings/erping-m2-hongmeng-dorm/previews/rear.png" alt="第二宿舍（紅夢樓）：背面" width="320">](buildings/erping-m2-hongmeng-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -237,9 +233,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 76 × 74.9。資料來源：validation.json:dimensions_mm。
 
-![第三宿舍（影山樓）：正面](buildings/erping-m3-yingshan-dorm/previews/front.png)
-
-![第三宿舍（影山樓）：背面](buildings/erping-m3-yingshan-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m3-yingshan-dorm/previews/front.png" alt="第三宿舍（影山樓）：正面" width="320">](buildings/erping-m3-yingshan-dorm/previews/front.png) | [<img src="buildings/erping-m3-yingshan-dorm/previews/rear.png" alt="第三宿舍（影山樓）：背面" width="320">](buildings/erping-m3-yingshan-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -249,9 +245,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：76 × 150 × 62.14。資料來源：validation.json:dimensions_mm。
 
-![第四宿舍（霽齋樓）：正面](buildings/erping-m4-jizhai-dorm/previews/front.png)
-
-![第四宿舍（霽齋樓）：背面](buildings/erping-m4-jizhai-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m4-jizhai-dorm/previews/front.png" alt="第四宿舍（霽齋樓）：正面" width="320">](buildings/erping-m4-jizhai-dorm/previews/front.png) | [<img src="buildings/erping-m4-jizhai-dorm/previews/rear.png" alt="第四宿舍（霽齋樓）：背面" width="320">](buildings/erping-m4-jizhai-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -261,9 +257,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 94 × 73.4。資料來源：manifest.json。
 
-![二坪山 M5 第五宿舍（恕先樓）：正面](buildings/erping-m5-shuxian-dorm/previews/front.png)
-
-![二坪山 M5 第五宿舍（恕先樓）：背面](buildings/erping-m5-shuxian-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m5-shuxian-dorm/previews/front.png" alt="二坪山 M5 第五宿舍（恕先樓）：正面" width="320">](buildings/erping-m5-shuxian-dorm/previews/front.png) | [<img src="buildings/erping-m5-shuxian-dorm/previews/rear.png" alt="二坪山 M5 第五宿舍（恕先樓）：背面" width="320">](buildings/erping-m5-shuxian-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -273,9 +269,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 136 × 84。資料來源：manifest.json。
 
-![八甲 M6 第六宿舍：正面](buildings/bajia-m6-sixth-dorm/previews/front.png)
-
-![八甲 M6 第六宿舍：背面](buildings/bajia-m6-sixth-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-m6-sixth-dorm/previews/front.png" alt="八甲 M6 第六宿舍：正面" width="320">](buildings/bajia-m6-sixth-dorm/previews/front.png) | [<img src="buildings/bajia-m6-sixth-dorm/previews/rear.png" alt="八甲 M6 第六宿舍：背面" width="320">](buildings/bajia-m6-sixth-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -285,9 +281,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 122 × 90.2。資料來源：manifest.json。
 
-![二坪山 M7 第七宿舍（雙電樓）：正面](buildings/erping-m7-shuangdian-dorm/previews/front.png)
-
-![二坪山 M7 第七宿舍（雙電樓）：背面](buildings/erping-m7-shuangdian-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m7-shuangdian-dorm/previews/front.png" alt="二坪山 M7 第七宿舍（雙電樓）：正面" width="320">](buildings/erping-m7-shuangdian-dorm/previews/front.png) | [<img src="buildings/erping-m7-shuangdian-dorm/previews/rear.png" alt="二坪山 M7 第七宿舍（雙電樓）：背面" width="320">](buildings/erping-m7-shuangdian-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -297,9 +293,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 97.99。資料來源：manifest.json。
 
-![二坪山 M8 第八宿舍（國鼎館）：正面](buildings/erping-m8-kuoting-dorm/previews/front.png)
-
-![二坪山 M8 第八宿舍（國鼎館）：背面](buildings/erping-m8-kuoting-dorm/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-m8-kuoting-dorm/previews/front.png" alt="二坪山 M8 第八宿舍（國鼎館）：正面" width="320">](buildings/erping-m8-kuoting-dorm/previews/front.png) | [<img src="buildings/erping-m8-kuoting-dorm/previews/rear.png" alt="二坪山 M8 第八宿舍（國鼎館）：背面" width="320">](buildings/erping-m8-kuoting-dorm/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -309,9 +305,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 106 × 65.9。資料來源：manifest.json。
 
-![八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：正面](buildings/bajia-m10-m11-dorm-complex/previews/front.png)
-
-![八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：背面](buildings/bajia-m10-m11-dorm-complex/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-m10-m11-dorm-complex/previews/front.png" alt="八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：正面" width="320">](buildings/bajia-m10-m11-dorm-complex/previews/front.png) | [<img src="buildings/bajia-m10-m11-dorm-complex/previews/rear.png" alt="八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：背面" width="320">](buildings/bajia-m10-m11-dorm-complex/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -321,9 +317,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 102 × 117。資料來源：manifest.json。
 
-![大禮堂、體育館及活動中心：正面](buildings/erping-j1-auditorium-gym-activity-center/previews/front.png)
-
-![大禮堂、體育館及活動中心：背面](buildings/erping-j1-auditorium-gym-activity-center/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-j1-auditorium-gym-activity-center/previews/front.png" alt="大禮堂、體育館及活動中心：正面" width="320">](buildings/erping-j1-auditorium-gym-activity-center/previews/front.png) | [<img src="buildings/erping-j1-auditorium-gym-activity-center/previews/rear.png" alt="大禮堂、體育館及活動中心：背面" width="320">](buildings/erping-j1-auditorium-gym-activity-center/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -333,9 +329,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 47.7。資料來源：manifest.json。
 
-![教學大樓（一）：正面](buildings/erping-k2-teaching-building-1/previews/front.png)
-
-![教學大樓（一）：背面](buildings/erping-k2-teaching-building-1/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-k2-teaching-building-1/previews/front.png" alt="教學大樓（一）：正面" width="320">](buildings/erping-k2-teaching-building-1/previews/front.png) | [<img src="buildings/erping-k2-teaching-building-1/previews/rear.png" alt="教學大樓（一）：背面" width="320">](buildings/erping-k2-teaching-building-1/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -345,9 +341,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 59.99。資料來源：manifest.json。
 
-![教學大樓（二）：正面](buildings/erping-k3-teaching-building-2/previews/front.png)
-
-![教學大樓（二）：背面](buildings/erping-k3-teaching-building-2/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-k3-teaching-building-2/previews/front.png" alt="教學大樓（二）：正面" width="320">](buildings/erping-k3-teaching-building-2/previews/front.png) | [<img src="buildings/erping-k3-teaching-building-2/previews/rear.png" alt="教學大樓（二）：背面" width="320">](buildings/erping-k3-teaching-building-2/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -357,9 +353,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 110 × 103.9。資料來源：manifest.json。
 
-![資訊大樓與國際會議中心低層連通部分：正面](buildings/bajia-i1-r1-information-conference/previews/front.png)
-
-![資訊大樓與國際會議中心低層連通部分：背面](buildings/bajia-i1-r1-information-conference/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-i1-r1-information-conference/previews/front.png" alt="資訊大樓與國際會議中心低層連通部分：正面" width="320">](buildings/bajia-i1-r1-information-conference/previews/front.png) | [<img src="buildings/bajia-i1-r1-information-conference/previews/rear.png" alt="資訊大樓與國際會議中心低層連通部分：背面" width="320">](buildings/bajia-i1-r1-information-conference/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -371,9 +367,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 100 × 61。資料來源：manifest.json。
 
-![藝文教學中心（藝術中心）：正面](buildings/bajia-q1-arts-teaching-center/previews/front.png)
-
-![藝文教學中心（藝術中心）：背面](buildings/bajia-q1-arts-teaching-center/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-q1-arts-teaching-center/previews/front.png" alt="藝文教學中心（藝術中心）：正面" width="320">](buildings/bajia-q1-arts-teaching-center/previews/front.png) | [<img src="buildings/bajia-q1-arts-teaching-center/previews/rear.png" alt="藝文教學中心（藝術中心）：背面" width="320">](buildings/bajia-q1-arts-teaching-center/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -386,9 +382,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 75 × 48。資料來源：manifest.json。
 
-![二坪山景觀餐廳：正面](buildings/erping-v1-landscape-restaurant/previews/front.png)
-
-![二坪山景觀餐廳：背面](buildings/erping-v1-landscape-restaurant/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-v1-landscape-restaurant/previews/front.png" alt="二坪山景觀餐廳：正面" width="320">](buildings/erping-v1-landscape-restaurant/previews/front.png) | [<img src="buildings/erping-v1-landscape-restaurant/previews/rear.png" alt="二坪山景觀餐廳：背面" width="320">](buildings/erping-v1-landscape-restaurant/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -398,9 +394,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 88 × 56.3。資料來源：manifest.json。
 
-![八甲景觀餐廳：正面](buildings/bajia-v2-landscape-restaurant/previews/front.png)
-
-![八甲景觀餐廳：背面](buildings/bajia-v2-landscape-restaurant/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-v2-landscape-restaurant/previews/front.png" alt="八甲景觀餐廳：正面" width="320">](buildings/bajia-v2-landscape-restaurant/previews/front.png) | [<img src="buildings/bajia-v2-landscape-restaurant/previews/rear.png" alt="八甲景觀餐廳：背面" width="320">](buildings/bajia-v2-landscape-restaurant/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -410,9 +406,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 100 × 96.8。資料來源：manifest.json。
 
-![八甲機電中心：正面](buildings/bajia-t2-mep-center/previews/front.png)
-
-![八甲機電中心：背面](buildings/bajia-t2-mep-center/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-t2-mep-center/previews/front.png" alt="八甲機電中心：正面" width="320">](buildings/bajia-t2-mep-center/previews/front.png) | [<img src="buildings/bajia-t2-mep-center/previews/rear.png" alt="八甲機電中心：背面" width="320">](buildings/bajia-t2-mep-center/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -422,9 +418,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：82 × 150 × 35。資料來源：manifest.json。
 
-![二坪山蓮荷水世界游泳館：正面](buildings/erping-s1-lotus-aquatic-center/previews/front.png)
-
-![二坪山蓮荷水世界游泳館：背面](buildings/erping-s1-lotus-aquatic-center/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-s1-lotus-aquatic-center/previews/front.png" alt="二坪山蓮荷水世界游泳館：正面" width="320">](buildings/erping-s1-lotus-aquatic-center/previews/front.png) | [<img src="buildings/erping-s1-lotus-aquatic-center/previews/rear.png" alt="二坪山蓮荷水世界游泳館：背面" width="320">](buildings/erping-s1-lotus-aquatic-center/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -434,9 +430,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 110 × 48。資料來源：manifest.json。
 
-![八甲風雨球場：正面](buildings/bajia-s2-covered-court/previews/front.png)
-
-![八甲風雨球場：背面](buildings/bajia-s2-covered-court/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-s2-covered-court/previews/front.png" alt="八甲風雨球場：正面" width="320">](buildings/bajia-s2-covered-court/previews/front.png) | [<img src="buildings/bajia-s2-covered-court/previews/rear.png" alt="八甲風雨球場：背面" width="320">](buildings/bajia-s2-covered-court/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -446,9 +442,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 88 × 68.8。資料來源：manifest.json。
 
-![八甲田徑運動場司令台：正面](buildings/bajia-athletics-grandstand/previews/front.png)
-
-![八甲田徑運動場司令台：背面](buildings/bajia-athletics-grandstand/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-athletics-grandstand/previews/front.png" alt="八甲田徑運動場司令台：正面" width="320">](buildings/bajia-athletics-grandstand/previews/front.png) | [<img src="buildings/bajia-athletics-grandstand/previews/rear.png" alt="八甲田徑運動場司令台：背面" width="320">](buildings/bajia-athletics-grandstand/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -458,9 +454,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 135 × 79.8。資料來源：manifest.json。
 
-![八甲生活館圓廳：正面](buildings/bajia-v3-round-hall/previews/front.png)
-
-![八甲生活館圓廳：背面](buildings/bajia-v3-round-hall/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-v3-round-hall/previews/front.png" alt="八甲生活館圓廳：正面" width="320">](buildings/bajia-v3-round-hall/previews/front.png) | [<img src="buildings/bajia-v3-round-hall/previews/rear.png" alt="八甲生活館圓廳：背面" width="320">](buildings/bajia-v3-round-hall/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -470,9 +466,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：110 × 150 × 103.3。資料來源：manifest.json。
 
-![二坪山教職員宿舍可見建築群：正面](buildings/erping-faculty-housing-visible-complex/previews/front.png)
-
-![二坪山教職員宿舍可見建築群：背面](buildings/erping-faculty-housing-visible-complex/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/erping-faculty-housing-visible-complex/previews/front.png" alt="二坪山教職員宿舍可見建築群：正面" width="320">](buildings/erping-faculty-housing-visible-complex/previews/front.png) | [<img src="buildings/erping-faculty-housing-visible-complex/previews/rear.png" alt="二坪山教職員宿舍可見建築群：背面" width="320">](buildings/erping-faculty-housing-visible-complex/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 
@@ -484,9 +480,9 @@
 
 模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 59.3。資料來源：manifest.json。
 
-![八甲北大門與中央警衛室：正面](buildings/bajia-t3-north-gate-guardhouse/previews/front.png)
-
-![八甲北大門與中央警衛室：背面](buildings/bajia-t3-north-gate-guardhouse/previews/rear.png)
+| 正面預覽 | 背面預覽 |
+| :---: | :---: |
+| [<img src="buildings/bajia-t3-north-gate-guardhouse/previews/front.png" alt="八甲北大門與中央警衛室：正面" width="320">](buildings/bajia-t3-north-gate-guardhouse/previews/front.png) | [<img src="buildings/bajia-t3-north-gate-guardhouse/previews/rear.png" alt="八甲北大門與中央警衛室：背面" width="320">](buildings/bajia-t3-north-gate-guardhouse/previews/rear.png) |
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
 

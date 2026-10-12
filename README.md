@@ -2,7 +2,7 @@
 
 本專案收錄國立聯合大學建築物的 3D 模型、可編輯原始檔與實際模型預覽。說明與建築名稱使用繁體中文。
 
-目前已完成並收錄 **15 組近似外觀模型**；以下逐項列出已收錄的館舍及建築群。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
+目前已完成並收錄 **29 組近似外觀模型**；以下逐項列出已收錄的館舍及建築群。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
 
 [兩校區建築研究目錄](docs/CATALOG.zh-TW.md)整理了 **50 筆建物／附屬量體候選**；這不是 50 棟現存獨立建築的斷言，也不是完成率分母。部分歷史館舍、代碼與附屬量體仍待確認。另提供 [JSON 清單](docs/catalog.json)與 [CSV 清單](docs/catalog.csv)。
 
@@ -201,5 +201,178 @@
 ![產研創新暨推廣大樓：正面](buildings/erping-h1-innovation-outreach/previews/front.png)
 
 ![產研創新暨推廣大樓：背面](buildings/erping-h1-innovation-outreach/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+
+## 宿舍、活動與教學館舍
+
+### 第一宿舍（水雲樓）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-m1-shuiyun-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 63.1。資料來源：validation.json:dimensions_mm。
+
+![第一宿舍（水雲樓）：正面](buildings/erping-m1-shuiyun-dorm/previews/front.png)
+
+![第一宿舍（水雲樓）：背面](buildings/erping-m1-shuiyun-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 第二宿舍（紅夢樓）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-m2-hongmeng-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 70 × 64.84。資料來源：validation.json:dimensions_mm。
+
+![第二宿舍（紅夢樓）：正面](buildings/erping-m2-hongmeng-dorm/previews/front.png)
+
+![第二宿舍（紅夢樓）：背面](buildings/erping-m2-hongmeng-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 第三宿舍（影山樓）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-m3-yingshan-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 76 × 74.9。資料來源：validation.json:dimensions_mm。
+
+![第三宿舍（影山樓）：正面](buildings/erping-m3-yingshan-dorm/previews/front.png)
+
+![第三宿舍（影山樓）：背面](buildings/erping-m3-yingshan-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 第四宿舍（霽齋樓）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-m4-jizhai-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：76 × 150 × 62.14。資料來源：validation.json:dimensions_mm。
+
+![第四宿舍（霽齋樓）：正面](buildings/erping-m4-jizhai-dorm/previews/front.png)
+
+![第四宿舍（霽齋樓）：背面](buildings/erping-m4-jizhai-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 二坪山 M5 第五宿舍（恕先樓）
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-m5-shuxian-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 94 × 73.4。資料來源：manifest.json。
+
+![二坪山 M5 第五宿舍（恕先樓）：正面](buildings/erping-m5-shuxian-dorm/previews/front.png)
+
+![二坪山 M5 第五宿舍（恕先樓）：背面](buildings/erping-m5-shuxian-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲 M6 第六宿舍
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-m6-sixth-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 136 × 84。資料來源：manifest.json。
+
+![八甲 M6 第六宿舍：正面](buildings/bajia-m6-sixth-dorm/previews/front.png)
+
+![八甲 M6 第六宿舍：背面](buildings/bajia-m6-sixth-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 二坪山 M7 第七宿舍（雙電樓）
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-m7-shuangdian-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 122 × 90.2。資料來源：manifest.json。
+
+![二坪山 M7 第七宿舍（雙電樓）：正面](buildings/erping-m7-shuangdian-dorm/previews/front.png)
+
+![二坪山 M7 第七宿舍（雙電樓）：背面](buildings/erping-m7-shuangdian-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 二坪山 M8 第八宿舍（國鼎館）
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-m8-kuoting-dorm/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 97.99。資料來源：manifest.json。
+
+![二坪山 M8 第八宿舍（國鼎館）：正面](buildings/erping-m8-kuoting-dorm/previews/front.png)
+
+![二坪山 M8 第八宿舍（國鼎館）：背面](buildings/erping-m8-kuoting-dorm/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-m10-m11-dorm-complex/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 106 × 65.9。資料來源：manifest.json。
+
+![八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：正面](buildings/bajia-m10-m11-dorm-complex/previews/front.png)
+
+![八甲 M10 第十宿舍＋M11 第十一宿舍（連通建築群）：背面](buildings/bajia-m10-m11-dorm-complex/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 大禮堂、體育館及活動中心
+
+校區：二坪山。 [原始檔與說明](buildings/erping-j1-auditorium-gym-activity-center/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 102 × 117。資料來源：manifest.json。
+
+![大禮堂、體育館及活動中心：正面](buildings/erping-j1-auditorium-gym-activity-center/previews/front.png)
+
+![大禮堂、體育館及活動中心：背面](buildings/erping-j1-auditorium-gym-activity-center/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 教學大樓（一）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-k2-teaching-building-1/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 47.7。資料來源：manifest.json。
+
+![教學大樓（一）：正面](buildings/erping-k2-teaching-building-1/previews/front.png)
+
+![教學大樓（一）：背面](buildings/erping-k2-teaching-building-1/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 教學大樓（二）
+
+校區：二坪山。 [原始檔與說明](buildings/erping-k3-teaching-building-2/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 59.99。資料來源：manifest.json。
+
+![教學大樓（二）：正面](buildings/erping-k3-teaching-building-2/previews/front.png)
+
+![教學大樓（二）：背面](buildings/erping-k3-teaching-building-2/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 資訊大樓與國際會議中心低層連通部分
+
+校區：八甲。 [原始檔與說明](buildings/bajia-i1-r1-information-conference/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 110 × 103.9。資料來源：manifest.json。
+
+![資訊大樓與國際會議中心低層連通部分：正面](buildings/bajia-i1-r1-information-conference/previews/front.png)
+
+![資訊大樓與國際會議中心低層連通部分：背面](buildings/bajia-i1-r1-information-conference/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+範圍提醒：本件合含 I1 資訊大樓及 R1 國際會議中心低層連通部分，不另重複計為兩件，且不含 L1 圖書館。
+
+### 藝文教學中心（藝術中心）
+
+校區：八甲。 [原始檔與說明](buildings/bajia-q1-arts-teaching-center/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 100 × 61。資料來源：manifest.json。
+
+![藝文教學中心（藝術中心）：正面](buildings/bajia-q1-arts-teaching-center/previews/front.png)
+
+![藝文教學中心（藝術中心）：背面](buildings/bajia-q1-arts-teaching-center/previews/rear.png)
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。

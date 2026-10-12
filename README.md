@@ -2,7 +2,7 @@
 
 本專案收錄國立聯合大學建築物的 3D 模型、可編輯原始檔與實際模型預覽。說明與建築名稱使用繁體中文。
 
-目前已完成並收錄 **4 組近似外觀模型**：八甲校區國鼎圖書館（L1）、理工學院一館（A1）、理工學院二館（A2），以及二坪山校區立德樓（C1）。其餘館舍仍待公開資料核對與建模，尚未完成。
+目前已完成並收錄 **7 組近似外觀模型**，涵蓋國鼎圖書館、理工一館、理工二館、立德樓，以及以下新增的電機、電子、光電館舍。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
 
 [兩校區建築研究目錄](docs/CATALOG.zh-TW.md)整理了 **50 筆建物／附屬量體候選**；這不是 50 棟現存獨立建築的斷言，也不是完成率分母。部分歷史館舍、代碼與附屬量體仍待確認。另提供 [JSON 清單](docs/catalog.json)與 [CSV 清單](docs/catalog.csv)。
 
@@ -68,3 +68,39 @@
 ## 檔案組織
 
 每棟建築置於 buildings 下的獨立資料夾，保留自己的繁體中文說明、STL、Blender 檔案、建模程式、驗證結果與圖片。後續只會將完成並檢查過的模型標示為已完成。
+
+
+### 八甲校區 B1｜電機工程館
+
+含底座尺寸約 **122 × 150 × 90.3 mm**。依公開外觀資料近似重建；未見立面與背面採簡化推定，並非測量或施工模型。獨立展示尺度，尚未實體試印。
+
+- [建築說明、公開來源與列印限制](buildings/bajia-b1-electrical-engineering/README.zh-TW.md)
+- [STL 模型](buildings/bajia-b1-electrical-engineering/model.stl)・[Blender 場景](buildings/bajia-b1-electrical-engineering/scene.blend)・[網格驗證](buildings/bajia-b1-electrical-engineering/validation.json)
+
+![電機工程館實際模型正面](buildings/bajia-b1-electrical-engineering/previews/front.png)
+
+![電機工程館實際模型背面近似](buildings/bajia-b1-electrical-engineering/previews/rear.png)
+
+
+### 八甲校區 B2｜電子工程館
+
+含底座尺寸約 **150 × 50 × 41.5 mm**。依公開外觀資料近似重建；未見立面與背面採簡化推定，並非測量或施工模型。獨立展示尺度，尚未實體試印。
+
+- [建築說明、公開來源與列印限制](buildings/bajia-b2-electronics-engineering/README.md)
+- [STL 模型](buildings/bajia-b2-electronics-engineering/model.stl)・[Blender 場景](buildings/bajia-b2-electronics-engineering/scene.blend)・[網格驗證](buildings/bajia-b2-electronics-engineering/validation.json)
+
+![電子工程館實際模型正面](buildings/bajia-b2-electronics-engineering/previews/front.png)
+
+![電子工程館實際模型背面近似](buildings/bajia-b2-electronics-engineering/previews/rear.png)
+
+
+### 八甲校區 B3｜光電館
+
+含底座尺寸約 **150 × 90 × 64 mm**。依公開外觀資料近似重建；未見立面與背面採簡化推定，並非測量或施工模型。獨立展示尺度，尚未實體試印。
+
+- [建築說明、公開來源與列印限制](buildings/bajia-b3-photonics-engineering/README.zh-TW.md)
+- [STL 模型](buildings/bajia-b3-photonics-engineering/model.stl)・[Blender 場景](buildings/bajia-b3-photonics-engineering/scene.blend)・[網格驗證](buildings/bajia-b3-photonics-engineering/validation.json)
+
+![光電館實際模型正面](buildings/bajia-b3-photonics-engineering/previews/front.png)
+
+![光電館實際模型背面近似](buildings/bajia-b3-photonics-engineering/previews/rear.png)

@@ -2,7 +2,7 @@
 
 本專案收錄國立聯合大學建築物的 3D 模型、可編輯原始檔與實際模型預覽。說明與建築名稱使用繁體中文。
 
-目前已完成並收錄 **7 組近似外觀模型**，涵蓋國鼎圖書館、理工一館、理工二館、立德樓，以及以下新增的電機、電子、光電館舍。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
+目前已完成並收錄 **15 組近似外觀模型**；以下逐項列出已收錄的館舍及建築群。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
 
 [兩校區建築研究目錄](docs/CATALOG.zh-TW.md)整理了 **50 筆建物／附屬量體候選**；這不是 50 棟現存獨立建築的斷言，也不是完成率分母。部分歷史館舍、代碼與附屬量體仍待確認。另提供 [JSON 清單](docs/catalog.json)與 [CSV 清單](docs/catalog.csv)。
 
@@ -104,3 +104,102 @@
 ![光電館實際模型正面](buildings/bajia-b3-photonics-engineering/previews/front.png)
 
 ![光電館實際模型背面近似](buildings/bajia-b3-photonics-engineering/previews/rear.png)
+
+
+## 新增館舍與建築群
+
+### 八甲校區 B4 資訊工程館
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-b4-computer-science/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 70 × 73.2。資料來源：manifest.json。
+
+![八甲校區 B4 資訊工程館：正面](buildings/bajia-b4-computer-science/previews/front.png)
+
+![八甲校區 B4 資訊工程館：背面](buildings/bajia-b4-computer-science/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-d1-d2-hakka-complex/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 118 × 58。資料來源：validation.json:dimensions_mm。
+
+![國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：正面](buildings/bajia-d1-d2-hakka-complex/previews/front.png)
+
+![國立聯合大學八甲校區客家研究學院 D1 前棟＋D2 後棟：背面](buildings/bajia-d1-d2-hakka-complex/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-e1-e2-e3-humanities/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 120 × 61。資料來源：validation.json:dimensions_mm。
+
+![國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：正面](buildings/bajia-e1-e2-e3-humanities/previews/front.png)
+
+![國立聯合大學八甲校區人文與社會學院 E1前棟＋E2中棟＋E3後棟：背面](buildings/bajia-e1-e2-e3-humanities/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-g1-g2-g3-common-education/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 108 × 56。資料來源：validation.json:dimensions_mm。
+
+![國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：正面](buildings/bajia-g1-g2-g3-common-education/previews/front.png)
+
+![國立聯合大學八甲校區 G1／G2／G3 共同教育館舍組：背面](buildings/bajia-g1-g2-g3-common-education/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### F1 建築一館
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-f1-architecture-1/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 80 × 93.8。資料來源：validation.json:dimensions_mm。
+
+![F1 建築一館：正面](buildings/erping-f1-architecture-1/previews/front.png)
+
+![F1 建築一館：背面](buildings/erping-f1-architecture-1/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### F2 建築二館
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-f2-architecture-2/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 76 × 50.2。資料來源：validation.json:dimensions_mm。
+
+![F2 建築二館：正面](buildings/erping-f2-architecture-2/previews/front.png)
+
+![F2 建築二館：背面](buildings/erping-f2-architecture-2/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### F3 公弢樓
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-f3-gongtao/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 106 × 76.2。資料來源：validation.json:dimensions_mm。
+
+![F3 公弢樓：正面](buildings/erping-f3-gongtao/previews/front.png)
+
+![F3 公弢樓：背面](buildings/erping-f3-gongtao/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 產研創新暨推廣大樓
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-h1-innovation-outreach/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 80 × 121.4。資料來源：manifest.json。
+
+![產研創新暨推廣大樓：正面](buildings/erping-h1-innovation-outreach/previews/front.png)
+
+![產研創新暨推廣大樓：背面](buildings/erping-h1-innovation-outreach/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。

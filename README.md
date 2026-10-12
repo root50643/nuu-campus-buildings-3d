@@ -2,9 +2,9 @@
 
 本專案收錄國立聯合大學建築物的 3D 模型、可編輯原始檔與實際模型預覽。說明與建築名稱使用繁體中文。
 
-目前已完成並收錄 **29 組近似外觀模型**；以下逐項列出已收錄的館舍及建築群。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
+目前已完成並收錄 **38 組近似外觀模型**；以下逐項列出已收錄的館舍及建築群。其餘館舍仍持續整理；本專案不宣稱已涵蓋全校建築。
 
-[兩校區建築研究目錄](docs/CATALOG.zh-TW.md)整理了 **50 筆建物／附屬量體候選**；這不是 50 棟現存獨立建築的斷言，也不是完成率分母。部分歷史館舍、代碼與附屬量體仍待確認。另提供 [JSON 清單](docs/catalog.json)與 [CSV 清單](docs/catalog.csv)。
+[早期兩校區建築研究目錄](docs/CATALOG.zh-TW.md)整理了 **50 筆建物／附屬量體候選**；這不是 50 棟現存獨立建築的斷言，也不是完成率分母。部分歷史館舍、代碼與附屬量體仍待確認；該研究目錄的舊完成狀態不代表目前模型收錄數，最新收錄以本頁與各模型資料夾為準。另提供 [JSON 清單](docs/catalog.json)與 [CSV 清單](docs/catalog.csv)。
 
 所有模型都是獨立展示小模型，**並非全校統一比例尺**；均已做數位網格檢查，但尚未實體試印。
 
@@ -376,3 +376,124 @@
 ![藝文教學中心（藝術中心）：背面](buildings/bajia-q1-arts-teaching-center/previews/rear.png)
 
 外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+
+## 輔助館舍、運動設施與門樓
+
+### 二坪山景觀餐廳
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-v1-landscape-restaurant/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 75 × 48。資料來源：manifest.json。
+
+![二坪山景觀餐廳：正面](buildings/erping-v1-landscape-restaurant/previews/front.png)
+
+![二坪山景觀餐廳：背面](buildings/erping-v1-landscape-restaurant/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲景觀餐廳
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-v2-landscape-restaurant/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 88 × 56.3。資料來源：manifest.json。
+
+![八甲景觀餐廳：正面](buildings/bajia-v2-landscape-restaurant/previews/front.png)
+
+![八甲景觀餐廳：背面](buildings/bajia-v2-landscape-restaurant/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲機電中心
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-t2-mep-center/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 100 × 96.8。資料來源：manifest.json。
+
+![八甲機電中心：正面](buildings/bajia-t2-mep-center/previews/front.png)
+
+![八甲機電中心：背面](buildings/bajia-t2-mep-center/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 二坪山蓮荷水世界游泳館
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-s1-lotus-aquatic-center/)
+
+模型外框尺寸（毫米；X × Y × Z）：82 × 150 × 35。資料來源：manifest.json。
+
+![二坪山蓮荷水世界游泳館：正面](buildings/erping-s1-lotus-aquatic-center/previews/front.png)
+
+![二坪山蓮荷水世界游泳館：背面](buildings/erping-s1-lotus-aquatic-center/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲風雨球場
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-s2-covered-court/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 110 × 48。資料來源：manifest.json。
+
+![八甲風雨球場：正面](buildings/bajia-s2-covered-court/previews/front.png)
+
+![八甲風雨球場：背面](buildings/bajia-s2-covered-court/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲田徑運動場司令台
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-athletics-grandstand/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 88 × 68.8。資料來源：manifest.json。
+
+![八甲田徑運動場司令台：正面](buildings/bajia-athletics-grandstand/previews/front.png)
+
+![八甲田徑運動場司令台：背面](buildings/bajia-athletics-grandstand/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 八甲生活館圓廳
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-v3-round-hall/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 135 × 79.8。資料來源：manifest.json。
+
+![八甲生活館圓廳：正面](buildings/bajia-v3-round-hall/previews/front.png)
+
+![八甲生活館圓廳：背面](buildings/bajia-v3-round-hall/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+### 二坪山教職員宿舍可見建築群
+
+校區：二坪山校區。 [原始檔與說明](buildings/erping-faculty-housing-visible-complex/)
+
+模型外框尺寸（毫米；X × Y × Z）：110 × 150 × 103.3。資料來源：manifest.json。
+
+![二坪山教職員宿舍可見建築群：正面](buildings/erping-faculty-housing-visible-complex/previews/front.png)
+
+![二坪山教職員宿舍可見建築群：背面](buildings/erping-faculty-housing-visible-complex/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+範圍提醒：本件僅表示照片可見的教職員宿舍群；歷史 P1／P2 分棟界線未解，不能視為兩棟各自完成。
+
+### 八甲北大門與中央警衛室
+
+校區：八甲校區。 [原始檔與說明](buildings/bajia-t3-north-gate-guardhouse/)
+
+模型外框尺寸（毫米；X × Y × Z）：150 × 64 × 59.3。資料來源：manifest.json。
+
+![八甲北大門與中央警衛室：正面](buildings/bajia-t3-north-gate-guardhouse/previews/front.png)
+
+![八甲北大門與中央警衛室：背面](buildings/bajia-t3-north-gate-guardhouse/previews/rear.png)
+
+外觀與背側細節含推估及簡化；非實測復刻，未經實體試印。
+
+範圍提醒：中央警衛室與北大門合為一件，不重複計件。
+
+
+
+## 尚待核實的建物範圍
+
+38 組是獨立列印套件數，不是 38 棟房產登記，也不是全校建築全部完成。部分套件包含多棟相連量體；F4、P1／P2 界線、Q2、T1 及 T2 旁未編碼機械房仍有身分或外觀證據缺口，詳見[剩餘證據缺口與官方來源](docs/RESIDUAL_EVIDENCE_GAPS.zh-TW.md)。未把資料不足的候選建物補成虛構模型。
